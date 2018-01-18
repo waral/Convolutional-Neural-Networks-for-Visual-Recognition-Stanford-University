@@ -1,4 +1,4 @@
-# Convolutional neural networks for Visual Recognition
+# Convolutional Neural Networks for Visual Recognition
 
 Course [webpage](http://cs231n.stanford.edu/). 
 
