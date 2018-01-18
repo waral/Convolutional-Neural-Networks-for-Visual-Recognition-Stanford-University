@@ -13,7 +13,7 @@ Each assignment consists of several parts, usually it is an implementation of th
 ### Q4: Two-Layer Neural Network (53.2 %)
 
 ## Assignment 2
-### Q1: Fully-connected Neural Network (54.5 %)
+### Q1: Fully-connected Neural Network (using Batch Normalization, 54.5 %)
 ### Q2: Batch Normalization
 ### Q3: Dropout
 ### Q4: Convolutional Networks (validation accuracy 46% after one epoch)
