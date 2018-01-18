@@ -16,5 +16,5 @@ Each assignment consists of several parts, usually it is an implementation of th
 ### Q1: Fully-connected Neural Network (using Batch Normalization, 54.5 %)
 ### Q2: Batch Normalization
 ### Q3: Dropout
-### Q4: Convolutional Networks (validation accuracy 46% after one epoch)
+### Q4: Convolutional Neural Networks (validation accuracy 46% after one epoch)
 ### Q5: PyTorch / TensorFlow Convolutional Network on CIFAR-10 (PyTorch, 81.3 %)
