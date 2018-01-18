@@ -2,7 +2,7 @@
 
 Course [webpage](http://cs231n.stanford.edu/). 
 
-In this notebook you can find my solutions to the assignments (so far 1 & 2) of the Stanford class: Convolutional Neural Networks for Visual Recognition. They are all in Python split between Jupyter Notebooks and .py files. The notebooks contain the complete description of the respective assignment. 
+In this notebook you can find my solutions to the assignments (1 & 2, I'm including the ones I've done so far) of the Stanford class: Convolutional Neural Networks for Visual Recognition. They are all in Python split between Jupyter Notebooks and .py files. The notebooks contain the complete description of the respective assignment. 
 
 Each assignment consists of several parts, usually it is an implementation of the given classifier and application to [the CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html). More details can be found in the associated notebooks.
 
